@@ -1,6 +1,9 @@
+
 package logica;
 
-public class Ejercicio_7 {
+import igu.Pantalla;
+
+public class Ejercicio_0 {
 
     public static void main(String[] args) {
           Pantalla panta = new Pantalla();
